@@ -14,7 +14,7 @@ public class Date {
 		long var6 = 9999999; // 여러숫자 입력 가능
 		//정수형 
 		
-		float var7 = 0.5f; // 소수점 선언 후 뒤에 f를 까먹지 말고 붙히자 
+		float var7 = 0.5f; // 소수점 선언 후 뒤에 f를 까먹지 말고 붙이자  
 		double var8 = 0.0005; // 소수점 선언 
 		//실수형 
 		
